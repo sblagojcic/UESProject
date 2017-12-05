@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+    <display-name>UESProjekat</display-name>
+    
+    <module>
+        <web>
+            <web-uri>UESProjekat.war</web-uri>
+            <context-root>/UESProjekat</context-root>
+        </web>
+    </module>
+
+    <module>
+        <ejb>UESProjekat.jar</ejb>
+    </module>
+</application>

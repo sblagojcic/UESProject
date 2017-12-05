@@ -1,0 +1,41 @@
+table{
+	width: 70%;
+	position: absolute;
+  	left: 15%;
+  	border: 2px solid black; 
+}
+
+table th{
+   background-color: #BCD7F1;
+   text-align: left;
+}
+
+.sila{
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin: 0 auto;
+	width:900px;
+
+}
+
+table td{
+   padding-top: 5px;
+   padding-bottom: 10px;
+   background-color: #CFCFCF;
+   text-align: left;
+   font-size: 14px;
+   vertical-align: top;
+   line-height: 18px;
+}
+
+input[type="submit"]{
+	background-color: #BCD7F1;
+}
+body{
+	background: cadetblue;
+}
+
+textarea {
+	background-color: #CFCFCF;
+}
